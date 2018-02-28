@@ -1,0 +1,16 @@
+{
+  "name": "node-express-example",
+  "version": "1.0.0",
+  "description": "A template for a simple node webapp",
+  "main": "app.coffee",
+  "scripts": {
+    "start": "coffee app.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SMC",
+  "license": "ISC",
+  "dependencies": {
+    "coffeescript": "^2.2.2",
+    "express": "^4.16.2"
+  }
+}
